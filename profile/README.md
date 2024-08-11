@@ -12,6 +12,10 @@ O dataset utilizado para este projeto é baseado em um conjunto de dados de aval
 ## Descrição do Projeto
 Este projeto tem como objetivo analisar e otimizar consultas e inserções de dados no banco de dados. Utiliza um banco de dados PostgreSQL para armazenar dados relacionados a filmes e avaliações, e fornece uma interface para consultar e manipular esses dados.
 
+## Modelo Lógico
+![modelo](https://github.com/user-attachments/assets/27e3603f-0630-4078-8596-94c1e293ddc4)
+
+
 ## Explicação Detalhada do Projeto
 O projeto é dividido em várias partes principais:
 
